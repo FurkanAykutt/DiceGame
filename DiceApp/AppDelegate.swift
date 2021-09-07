@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  DiceApp
 //
-//  Created by Ebubekir Aykut on 7.09.2021.
+//  Created by Furkan Aykut on 7.09.2021.
 //
 
 import UIKit
